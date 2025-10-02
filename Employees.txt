@@ -1,0 +1,4 @@
+1,Nguyen Van A,Manager,Male,1980-02-15,25000
+2,Tran Thi B,Developer,Female,1992-06-28,18000
+3,Le Van C,Tester,Male,1985-09-12,16000
+4,Le Van D,BA,Male,1990-05-10,15000
